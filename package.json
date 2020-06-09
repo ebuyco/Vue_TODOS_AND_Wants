@@ -1,0 +1,36 @@
+{
+  "name": "vue_images",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "vue-cli-service serve --open",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebuyco/Vue_Images.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebuyco/Vue_Images/issues"
+  },
+  "homepage": "https://github.com/ebuyco/Vue_Images#readme",
+  "dependencies": {
+    "@vue/cli": "^4.4.1",
+    "axios": "^0.19.2",
+    "lodash": "^4.17.15",
+    "qs": "^6.9.4",
+    "vue": "^2.6.11",
+    "vue-router": "^3.3.2",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.4.1",
+    "@vue/cli-service": "^4.4.1",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
