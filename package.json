@@ -21,7 +21,7 @@
   "homepage": "https://github.com/ebuyco/Vue_Images#readme",
   "dependencies": {
     "@vue/cli": "^4.4.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "lodash": "^4.17.15",
     "qs": "^6.9.4",
     "vue": "^2.6.11",
